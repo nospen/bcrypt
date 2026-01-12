@@ -1,2 +1,2 @@
-erzeuge eines hashes
+erzeugen eines Hashes
 ->node index.js hash
